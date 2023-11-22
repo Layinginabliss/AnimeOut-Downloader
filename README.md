@@ -10,13 +10,13 @@ pip install numpy
 pip install pyautogui
 </pre>
 Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed.For the cloudflare security,add i am human check box button (not vital).Skip the 3,4 if you are not using IDM,and make sure to disable IDM in the config.py or it will give an error
+
 1.png to be
 
 ![result image of 1 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/cc7e6fbc-6e6b-4b43-b0f9-e1946288a02b)
 
 1.png to be
 ![result image of 2 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/dc95157b-2c2c-4596-8b3a-bf1a0e631e51)
-
 
 2.png to be
 ![result image of 3 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/70eae647-cee3-4e81-b0af-897d4b404656)
