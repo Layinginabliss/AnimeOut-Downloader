@@ -1,5 +1,5 @@
 # AnimeOut-Downloader
-AnimeOut web site User Download Simulation
+AnimeOut.xyz web site User Download Simulation
 
 Fist install the required library
 pip install watchdog
@@ -16,11 +16,11 @@ Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed.F
 
 ![result image of 4 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/79723eb4-3e6d-4c86-8eda-742db6cc6088)
 
-To download the files,you have to get the animeout web pages that have the links and paste its source code in a .txt file and difine in the config.py.to change the settings config.py there you can change quality,web_or_idm_defult_download_directrory,need_anime_websites_SourceCodes_junk_file.
+To download the files,you have to get the animeout web pages that have the links and paste its source code in a .txt file and diffine in the config.py.To change other settings go to config.py there you can change and set quality,web_or_idm_defult_download_directrory,need_anime_websites_SourceCodes_junk_file.
 I recomend using IDM downloader and if you are not set idm to False.
 
-WARNINGS : Set the correct dirrectory of your downlder save directory or the program won't moniter the complition of the downloading files
-           Use Ad Blocker or the last step on Anime Out won't work.It will keep pressing on the ads or some thing else
+WARNINGS : Set the correct dirrectory of your downloader save directory or the program won't moniter the complition of the downloading files
+           Use Ad Blocker or the last step on AnimeOut.xyz won't work.It will keep pressing on the ads or some thing else
            
 Here is a example of setting the anime you need
 
