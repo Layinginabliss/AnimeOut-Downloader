@@ -1,1 +1,903 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"><![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en-US"><![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en-US"><![endif]-->
+<!--[if IE 9]>
+<html class="no-js lt-ie10" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"/>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.animeout.xyz/xmlrpc.php">
+
+	<!-- Fav and touch icons -->
+			<link rel="shortcut icon" href="https://cdn.animeout.xyz/wp-content/uploads/2015/12/AnimeOut-Bookmark-icon-logo-v3.png">
+					
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	<script src="https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/html5shiv.js"></script>
+	<![endif]-->
+
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="https://www.animeout.xyz/wp-content/themes/kleo/assets/css/fontello-ie7.css">
+	<![endif]-->
+
+	
+	<title>Kimetsu no Yaiba (Demon Slayer)(Complete BD)(1080p-300MB|720p-150MB) &#8211; AnimeOut</title>
+<link rel='dns-prefetch' href='//www.animeout.xyz' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="AnimeOut &raquo; Feed" href="https://www.animeout.xyz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AnimeOut &raquo; Comments Feed" href="https://www.animeout.xyz/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AnimeOut &raquo; Kimetsu no Yaiba (Demon Slayer)(Complete BD)(1080p-300MB|720p-150MB) Comments Feed" href="https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/feed/" />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.animeout.xyz/wp-includes/css/dashicons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://www.animeout.xyz/wp-includes/css/admin-bar.css' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+
+			@font-face {
+				font-family: 'w3tc';
+			src: url('https://www.animeout.xyz/wp-content/plugins/w3-total-cache/pub/fonts/w3tc.eot');
+			src: url('https://www.animeout.xyz/wp-content/plugins/w3-total-cache/pub/fonts/w3tc.eot?#iefix') format('embedded-opentype'),
+				 url('https://www.animeout.xyz/wp-content/plugins/w3-total-cache/pub/fonts/w3tc.woff') format('woff'),
+				 url('https://www.animeout.xyz/wp-content/plugins/w3-total-cache/pub/fonts/w3tc.ttf') format('truetype'),
+				 url('https://www.animeout.xyz/wp-content/plugins/w3-total-cache/pub/fonts/w3tc.svg#w3tc') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		.w3tc-icon:before{
+			content:'\0041'; top: 2px;
+			font-family: 'w3tc';
+		}
+</style>
+<link rel='stylesheet' id='wpas-magnific-css'  href='https://cdn.animeout.xyz/wp-content/plugins/awesome-support/assets/admin/css/vendor/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpas-admin-popup-css'  href='https://cdn.animeout.xyz/wp-content/plugins/awesome-support/assets/admin/css/admin-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.animeout.xyz/wp-includes/css/dist/block-library/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://cdn.animeout.xyz/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='spu-public-css-css'  href='https://www.animeout.xyz/wp-content/plugins/popups/public/assets/css/public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.animeout.xyz/wp-content/themes/kleo/assets/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-app-css'  href='https://www.animeout.xyz/wp-content/themes/kleo/assets/css/app.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://www.animeout.xyz/wp-content/themes/kleo/assets/js/plugins/magnific-popup/magnific.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-fonts-css'  href='https://www.animeout.xyz/wp-content/themes/kleo/assets/css/fontello.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://www.animeout.xyz/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Condensed%3A300%7COpen+Sans%3A400' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-colors-css'  href='https://cdn.animeout.xyz/wp-content/uploads/custom_styles/dynamic.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-plugins-css'  href='https://www.animeout.xyz/wp-content/themes/kleo/assets/css/plugins.min.css' type='text/css' media='all' />
+		<script type="text/javascript">
+			function w3tc_popupadmin_bar(url) {
+				return window.open(url, '', 'width=800,height=600,status=no,toolbar=no,menubar=no,scrollbars=yes');
+			}
+		</script>
+			<script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/jquery/jquery-migrate.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/plugins/awesome-support/assets/admin/js/vendor/jquery.magnific-popup.min.js' id='wpas-magnific-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/plugins/awesome-support/assets/admin/js/admin-popup.js' id='wpas-admin-popup-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js' id='revmin-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/modernizr.custom.46504.js' id='modernizr-js'></script>
+<link rel="https://api.w.org/" href="https://www.animeout.xyz/wp-json/" /><link rel="alternate" type="application/json" href="https://www.animeout.xyz/wp-json/wp/v2/posts/118389" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.animeout.xyz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.animeout.xyz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.12" />
+<link rel="canonical" href="https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/" />
+<link rel='shortlink' href='https://www.animeout.xyz/?p=118389' />
+<link rel="alternate" type="application/json+oembed" href="https://www.animeout.xyz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.animeout.xyz%2Fkimetsu-no-yaiba-demon-slayer%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.animeout.xyz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.animeout.xyz%2Fkimetsu-no-yaiba-demon-slayer%2F&#038;format=xml" />
+	<meta name="mobile-web-app-capable" content="yes">
+		<script type="text/javascript">
+		/*
+		 prevent dom flickering for elements hidden with js
+		 */
+		"use strict";
+
+		document.documentElement.className += ' js-active ';
+		document.documentElement.className += 'ontouchstart' in document.documentElement ? ' kleo-mobile ' : ' kleo-desktop ';
+
+		var prefix = ['-webkit-', '-o-', '-moz-', '-ms-', ""];
+		for (var i in prefix) {
+			if (prefix[i] + 'transform' in document.documentElement.style) document.documentElement.className += " kleo-transform ";
+		}
+	</script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 5.4.8.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<style>
+.widget_tag_cloud a { font-size: small !important; }.navbar-transparent .navbar .kleo-main-header.header-scrolled {
+    background-color: rgba(0,0,0,0.9);
+}  
+.js .tmce-active .wp-editor-area {
+    color: #000;
+}
+
+</style>
+<link rel="icon" href="https://cdn-01.animeout.xyz/wp-content/uploads/2015/12/cropped-AnimeOut-Bookmark-icon-logo-v3-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cdn-01.animeout.xyz/wp-content/uploads/2015/12/cropped-AnimeOut-Bookmark-icon-logo-v3-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cdn-01.animeout.xyz/wp-content/uploads/2015/12/cropped-AnimeOut-Bookmark-icon-logo-v3-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cdn-01.animeout.xyz/wp-content/uploads/2015/12/cropped-AnimeOut-Bookmark-icon-logo-v3-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+
+<body data-rsssl=1 class="post-template-default single single-post postid-118389 single-format-standard logged-in admin-bar no-customize-support adminbar-enable kleo-navbar-fixed navbar-resize navbar-full-width wpb-js-composer js-comp-ver-6.1 vc_responsive">
+
+
+<!-- PAGE LAYOUT
+================================================ -->
+<!--Attributes-->
+<div class="kleo-page">
+
+	<!-- HEADER SECTION
+	================================================ -->
+	
+<div id="header" class="header-color">
+
+	<div class="navbar" role="navigation">
+
+		
+				<div class="kleo-main-header header-normal">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<div class="kleo-mobile-switch">
+
+												<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+
+					</div>
+
+					<div class="kleo-mobile-icons">
+
+						
+					</div>
+
+					<strong class="logo">
+						<a href="https://www.animeout.xyz">
+
+							
+								<img id="logo_img" title="AnimeOut" src="https://www.animeout.xyz/wp-content/uploads/2015/03/animeout-logo-v2.png"
+								     alt="AnimeOut">
+
+							
+						</a>
+					</strong>
+				</div>
+
+				
+
+				
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="primary-menu collapse navbar-collapse nav-collapse"><ul id="menu-main-1" class="nav navbar-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5837"><a title="Home" href="https://www.animeout.xyz/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129821"><a title="All Releases (List)" href="https://www.animeout.xyz/download-anime/">All Releases (List)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3789 dropdown mega-4-cols"><a title="Download Encoded Anime" href="https://www.animeout.xyz/download-anime/" class="js-activated">Download <span class="caret"></span></a>
+<ul role="menu" class="dropdown-menu sub-menu pull-left">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4693"><a title="Ongoing" href="https://www.animeout.xyz/ongoing-anime/">Ongoing</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4696"><a title="Complete" href="https://www.animeout.xyz/complete-anime/">Complete</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4695"><a title="Movies" href="https://www.animeout.xyz/download-anime-movies/">Movies</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4694"><a title="OVA" href="https://www.animeout.xyz/download-anime-ova/">OVA</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-69545 dropdown mega-2-cols"><a title="Anime Encoding Requests/Support Tickets" href="https://www.animeout.xyz/support/" class="js-activated">Anime Encoding Requests/Support Tickets <span class="caret"></span></a>
+<ul role="menu" class="dropdown-menu sub-menu pull-left">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69546"><a title="My Tickets" href="https://www.animeout.xyz/my-tickets/">My Tickets</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69547"><a title="Submit New Ticket" href="https://www.animeout.xyz/support/">Submit New Ticket</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42018 dropdown mega-4-cols"><a title="Help" href="https://www.animeout.xyz/support-and-requests/" class="js-activated">Help <span class="caret"></span></a>
+<ul role="menu" class="dropdown-menu sub-menu pull-left">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31197"><a title="F.A.Q." href="https://www.animeout.xyz/faq/">F.A.Q.</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38460"><a title="How to Download" href="https://www.animeout.xyz/how-to-download/">How to Download</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42021"><a title="Privacy Policy" href="https://www.animeout.xyz/privacy-policy/">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42020"><a title="Terms of Service" href="https://www.animeout.xyz/terms/">Terms of Service</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125944"><a title="DMCA/Complaint" href="mailto:admin@animeout.com">DMCA/Complaint</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42022"><a title="Anime Recommendations" href="https://www.animeout.xyz/recom_anime.html">Anime Recommendations</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42017"><a title="Login/Register" href="https://www.animeout.xyz/wp-login.php">Login/Register</a></li>
+</ul></div>
+				
+				
+
+			</div><!--end container-->
+		</div>
+	</div>
+
+</div><!--end header-->
+
+	<!-- MAIN SECTION
+	================================================ -->
+	<div id="main">
+
+
+
+<section class='container-wrap main-title alternate-color  border-bottom breadcrumbs-container'><div class='container'><h1 class="page-title">Kimetsu no Yaiba (Demon Slayer)(Complete BD)(1080p-300MB|720p-150MB)</h1><div class='breadcrumb-extra'>
+		<div class="kleo_framework breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://www.animeout.xyz" title="AnimeOut" >Home</a></span>
+			 <span class="sep"> </span> <span class="active">Kimetsu no Yaiba (Demon Slayer)(Complete BD)(1080p-300MB|720p-150MB)</span>
+		</div><p class="page-info">Report dead links or other problems in forums or via support tickets</p></div></div></section>
+
+<section class="container-wrap main-color">
+	<div id="main-container" class="container">
+		<div class="row"> 
+			<div class="template-page col-sm-9 tpl-right with-meta">
+				<div class="wrap-content">
+					
+				
+
+	
+
+<!-- Begin Article -->
+<article id="post-118389" class="clearfix post-118389 post type-post status-publish format-standard has-post-thumbnail hentry category-complete-anime-series tag-1080p tag-13464 tag-720p tag-bd tag-blu-ray tag-bluray tag-demon-slayer tag-featured tag-kimetsu-no-yaiba">
+
+	
+	
+					<div class="article-meta">
+				<span class="post-meta">
+				    <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/tnix103/" title="View all POSTS by ST31N" rel="author"> <span class="author-name">ST31N</span></a></small>, <small><a href="https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2023-11-06T03:15:13+05:30">November 6, 2023</time><time class="modify-date hide hidden updated" datetime="2023-11-06T03:16:05+05:30">November 6, 2023</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/#comments">74 <i class="icon-chat-1 hover-tip" data-original-title="This article has 74 comments" data-toggle="tooltip" data-placement="top"></i></a></small>				</span>
+							</div><!--end article-meta-->
+
+		
+					<div class="article-media">
+				<img width="1038" height="584" src="https://cdn-02.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault-1038x584.jpg" class="attachment-kleo-full-width size-kleo-full-width wp-post-image" alt="" loading="lazy" srcset="https://cdn-02.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault-1038x584.jpg 1038w, https://cdn-02.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault-300x169.jpg 300w, https://cdn.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault-768x432.jpg 768w, https://cdn-01.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault-672x378.jpg 672w, https://cdn-01.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault-480x270.jpg 480w, https://cdn-02.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault.jpg 1280w" sizes="(max-width: 1038px) 100vw, 1038px" />			</div><!--end article-media-->
+		
+		
+	<div class="article-content">
+
+		
+		
+			<h3>Kimetsu no Yaiba (main) <span style="color: #0000ff;">(150MB-720p | 300MB-1080p BD)</span></h3>
+<p><strong>Synonyms: Kimetsu no Yaiba (main),Demon Slayer (official)</strong><br />
+<strong>Type: <span style="color: #ff0000;">TV Series</span></strong><br />
+<strong>Episodes: <span style="color: #ff0000;">26</span></strong><br />
+<strong>Aired: <span style="color: #ff0000;">2019-04-06</span></strong><br />
+<strong>Ended: <span style="color: #ff0000;">2019-09-28</span></strong><br />
+<strong>Rating: <span style="color: #ff0000;">7.63</span></strong><br />
+Broadcast: Saturdays at 23:30 (JST)<br />
+Producers: Aniplex, Shueisha<br />
+Licensors: Aniplex of America<br />
+Studios: ufotable</p>
+<p>* Based on an action fantasy shounen manga by [Gotouge Koyoharu].</p>
+<p><strong>Since ancient times, rumors have abounded of man-eating demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a demon slayer also roams the night, hunting down these bloodthirsty demons. For young Tanjirou, these rumors will soon to become his harsh<br />
+Ever since the death of his father, Tanjirou has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they`ve found happiness. But that ephemeral warmth is shattered one day when Tanjirou finds is family slaughtered and the lone survivor, his sister Nezuko, turned into a demon. To his surprise, however, Nezuko still shows signs of human emotion and Thus begins Tanjirou`s request to fight demons and turn his sister human again.<br />
+Source: Viz Media<br />
+Tanjiro Kamado is a kindhearted, intelligent boy who lives with his family and makes money by selling charcoal. Everything changes when his family is attacked and slaughtered by demons (oni). Tanjiro and his sister Nezuko are the sole survivors of the incident, though Nezuko is now a demon, but surprisingly still shows signs of human emotion and thought. Tanjiro becomes a demon slayer to help his sister turn human again, and to avenge the loss of his family.</strong></p>
+<p><em>Haruo Sotozaki is directing the anime with scripts by the Ufotable staff. Yuki Kajiura and Go Shiina are composing the music, and Akira Matsushima is the character designer. Hikaru Kondo is the producer.[10] LiSA is performing the opening theme “Gurenge” (紅蓮華),[11] while the ending theme is “from the edge” by FictionJunction feat. LiSA.</em></p>
+<div style="text-align: center;"><a href="https://www.animeout.xyz/staff/img/231406.jpg"><img class="aligncenter size-large wp-image-60088" src="https://www.animeout.xyz/staff/img/231406.jpg" alt="Download Kimetsu no Yaiba (main) Anime" /></a></div>
+<h3 style="text-align: center;"><strong>1080p Bluray Encodes</strong></h3>
+<p style="text-align: center;">These encodes are DUAL-AUDIO.<br />
+Episode 01: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 01 [BD 1080pp FLAC] [D87897E3][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 01 [BD 1080pp FLAC] [D87897E3][1080pp][sam][RapidBot].mkv</a><br />
+Episode 02: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 02 [BD 1080pp FLAC] [03B8E3A2][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 02 [BD 1080pp FLAC] [03B8E3A2][1080pp][sam][RapidBot].mkv</a><br />
+Episode 03: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 03 [BD 1080pp FLAC] [5BF81198][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 03 [BD 1080pp FLAC] [5BF81198][1080pp][sam][RapidBot].mkv</a><br />
+Episode 04: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 04 [BD 1080pp FLAC] [06F64392][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 04 [BD 1080pp FLAC] [06F64392][1080pp][sam][RapidBot].mkv</a><br />
+Episode 05: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 05 [BD 1080pp FLAC] [8EEF8A5E][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 05 [BD 1080pp FLAC] [8EEF8A5E][1080pp][sam][RapidBot].mkv</a><br />
+Episode 06: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 06 [BD 1080pp FLAC] [FA6F060D][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 06 [BD 1080pp FLAC] [FA6F060D][1080pp][sam][RapidBot].mkv</a><br />
+Episode 07: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 07 [BD 1080pp FLAC] [A5E2CDEE][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 07 [BD 1080pp FLAC] [A5E2CDEE][1080pp][sam][RapidBot].mkv</a><br />
+Episode 08: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 08 [BD 1080pp FLAC] [FD877651][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 08 [BD 1080pp FLAC] [FD877651][1080pp][sam][RapidBot].mkv</a><br />
+Episode 09: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 09 [BD 1080pp FLAC] [CB8C947E][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 09 [BD 1080pp FLAC] [CB8C947E][1080pp][sam][RapidBot].mkv</a><br />
+Episode 10: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 10 [BD 1080pp FLAC] [02E686DA][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 10 [BD 1080pp FLAC] [02E686DA][1080pp][sam][RapidBot].mkv</a><br />
+Episode 11: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 11 [BD 1080pp FLAC] [E9AFB825][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 11 [BD 1080pp FLAC] [E9AFB825][1080pp][sam][RapidBot].mkv</a><br />
+Episode 12: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 12 [BD 1080pp FLAC] [E8F32EC0][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 12 [BD 1080pp FLAC] [E8F32EC0][1080pp][sam][RapidBot].mkv</a><br />
+Episode 13: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 13 [BD 1080pp FLAC] [E6BAD94A][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 13 [BD 1080pp FLAC] [E6BAD94A][1080pp][sam][RapidBot].mkv</a><br />
+Episode 14: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 14 [BD 1080pp FLAC] [F68EF221][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 14 [BD 1080pp FLAC] [F68EF221][1080pp][sam][RapidBot].mkv</a><br />
+Episode 15: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 15 [BD 1080pp FLAC] [A83A71A0][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 15 [BD 1080pp FLAC] [A83A71A0][1080pp][sam][RapidBot].mkv</a><br />
+Episode 16: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 16 [BD 1080pp FLAC] [E22BD3B7][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 16 [BD 1080pp FLAC] [E22BD3B7][1080pp][sam][RapidBot].mkv</a><br />
+Episode 17: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 17 [BD 1080pp FLAC] [E424453C][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 17 [BD 1080pp FLAC] [E424453C][1080pp][sam][RapidBot].mkv</a><br />
+Episode 18: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 18 [BD 1080pp FLAC] [31E3040E][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 18 [BD 1080pp FLAC] [31E3040E][1080pp][sam][RapidBot].mkv</a><br />
+Episode 19: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 19 [BD 1080pp FLAC] [95C4D6B0][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 19 [BD 1080pp FLAC] [95C4D6B0][1080pp][sam][RapidBot].mkv</a><br />
+Episode 20: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 20 [BD 1080pp FLAC] [ADB20654][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 20 [BD 1080pp FLAC] [ADB20654][1080pp][sam][RapidBot].mkv</a><br />
+Episode 21: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 21 [BD 1080pp FLAC] [E937252D][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 21 [BD 1080pp FLAC] [E937252D][1080pp][sam][RapidBot].mkv</a><br />
+Episode 22: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 22 [BD 1080pp FLAC] [A3A4FF89][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 22 [BD 1080pp FLAC] [A3A4FF89][1080pp][sam][RapidBot].mkv</a><br />
+Episode 23: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 23 [BD 1080pp FLAC] [F2E13E7E][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 23 [BD 1080pp FLAC] [F2E13E7E][1080pp][sam][RapidBot].mkv</a><br />
+Episode 24: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 24 [BD 1080pp FLAC] [3434AAB8][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 24 [BD 1080pp FLAC] [3434AAB8][1080pp][sam][RapidBot].mkv</a><br />
+Episode 25: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 25 [BD 1080pp FLAC] [B21DE25B][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 25 [BD 1080pp FLAC] [B21DE25B][1080pp][sam][RapidBot].mkv</a><br />
+Episode 26: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 26 [BD 1080pp FLAC] [8FD7B3B6][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – 26 [BD 1080pp FLAC] [8FD7B3B6][1080pp][sam][RapidBot].mkv</a></p>
+<p style="text-align: center;"><strong>OPs/EDs</strong><br />
+NCOP 1a: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCOP 1a [BD 1080pp FLAC] [3AFB3820][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – NCOP 1a [BD 1080pp FLAC] [3AFB3820][1080pp][sam][RapidBot].mkv</a><br />
+NCOP 1b: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCOP 1b [BD 1080pp FLAC] [4E0ADE64][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – NCOP 1b [BD 1080pp FLAC] [4E0ADE64][1080pp][sam][RapidBot].mkv</a><br />
+NCED 1: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCED 1 [BD 1080pp FLAC] [445B8820][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – NCED 1 [BD 1080pp FLAC] [445B8820][1080pp][sam][RapidBot].mkv</a><br />
+NCED 2: <a href="http://nimbus.animeout.com/series/00RAPIDBOT/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCED 2 Episode 19 [BD 1080pp FLAC] [4BF4A953][1080pp][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba – NCED 2 Episode 19 [BD 1080pp FLAC] [4BF4A953][1080pp][sam][RapidBot].mkv</a></p>
+<h3 style="text-align: center;"><strong>720p Bluray Encodes</strong></h3>
+<p style="text-align: center;">These encodes are DUAL-AUDIO.<br />
 Episode 01: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 01 [BD 720p FLAC] [D87897E3][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 01 [BD 720p FLAC] [D87897E3][sam][RapidBot].mkv</a><br />
+Episode 02: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 02 [BD 720p FLAC] [03B8E3A2][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 02 [BD 720p FLAC] [03B8E3A2][sam][RapidBot].mkv</a><br />
+Episode 03: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 03 [BD 720p FLAC] [5BF81198][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 03 [BD 720p FLAC] [5BF81198][sam][RapidBot].mkv</a><br />
+Episode 04: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 04 [BD 720p FLAC] [06F64392][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 04 [BD 720p FLAC] [06F64392][sam][RapidBot].mkv</a><br />
+Episode 05: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 05 [BD 720p FLAC] [8EEF8A5E][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 05 [BD 720p FLAC] [8EEF8A5E][sam][RapidBot].mkv</a><br />
+Episode 06: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 06 [BD 720p FLAC] [FA6F060D][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 06 [BD 720p FLAC] [FA6F060D][sam][RapidBot].mkv</a><br />
+Episode 07: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 07 [BD 720p FLAC] [A5E2CDEE][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 07 [BD 720p FLAC] [A5E2CDEE][sam][RapidBot].mkv</a><br />
+Episode 08: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 08 [BD 720p FLAC] [FD877651][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 08 [BD 720p FLAC] [FD877651][sam][RapidBot].mkv</a><br />
+Episode 09: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 09 [BD 720p FLAC] [CB8C947E][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 09 [BD 720p FLAC] [CB8C947E][sam][RapidBot].mkv</a><br />
+Episode 10: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 10 [BD 720p FLAC] [02E686DA][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 10 [BD 720p FLAC] [02E686DA][sam][RapidBot].mkv</a><br />
+Episode 11: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 11 [BD 720p FLAC] [E9AFB825][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 11 [BD 720p FLAC] [E9AFB825][sam][RapidBot].mkv</a><br />
+Episode 12: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 12 [BD 720p FLAC] [E8F32EC0][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 12 [BD 720p FLAC] [E8F32EC0][sam][RapidBot].mkv</a><br />
+Episode 13: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 13 [BD 720p FLAC] [E6BAD94A][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 13 [BD 720p FLAC] [E6BAD94A][sam][RapidBot].mkv</a><br />
+Episode 14: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 14 [BD 720p FLAC] [F68EF221][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 14 [BD 720p FLAC] [F68EF221][sam][RapidBot].mkv</a><br />
+Episode 15: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 15 [BD 720p FLAC] [A83A71A0][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 15 [BD 720p FLAC] [A83A71A0][sam][RapidBot].mkv</a><br />
+Episode 16: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 16 [BD 720p FLAC] [E22BD3B7][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 16 [BD 720p FLAC] [E22BD3B7][sam][RapidBot].mkv</a><br />
+Episode 17: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 17 [BD 720p FLAC] [E424453C][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 17 [BD 720p FLAC] [E424453C][sam][RapidBot].mkv</a><br />
+Episode 18: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 18 [BD 720p FLAC] [31E3040E][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 18 [BD 720p FLAC] [31E3040E][sam][RapidBot].mkv</a><br />
+Episode 19: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 19 [BD 720p FLAC] [95C4D6B0][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 19 [BD 720p FLAC] [95C4D6B0][sam][RapidBot].mkv</a><br />
+Episode 20: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 20 [BD 720p FLAC] [ADB20654][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 20 [BD 720p FLAC] [ADB20654][sam][RapidBot].mkv</a><br />
+Episode 21: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 21 [BD 720p FLAC] [E937252D][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 21 [BD 720p FLAC] [E937252D][sam][RapidBot].mkv</a><br />
+Episode 22: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 22 [BD 720p FLAC] [A3A4FF89][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 22 [BD 720p FLAC] [A3A4FF89][sam][RapidBot].mkv</a><br />
+Episode 23: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 23 [BD 720p FLAC] [F2E13E7E][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 23 [BD 720p FLAC] [F2E13E7E][sam][RapidBot].mkv</a><br />
+Episode 24: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 24 [BD 720p FLAC] [3434AAB8][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 24 [BD 720p FLAC] [3434AAB8][sam][RapidBot].mkv</a><br />
+Episode 25: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 25 [BD 720p FLAC] [B21DE25B][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 25 [BD 720p FLAC] [B21DE25B][sam][RapidBot].mkv</a><br />
+Episode 26: <a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - 26 [BD 720p FLAC] [8FD7B3B6][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; 26 [BD 720p FLAC] [8FD7B3B6][sam][RapidBot].mkv</a></p>
+<p style="text-align: center;"><strong>OPs/EDs</strong><br />
+<a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCOP 1a [BD 720p FLAC] [3AFB3820][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; NCOP 1a [BD 720p FLAC] [3AFB3820][sam][RapidBot].mkv</a><br />
+<a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCOP 1b [BD 720p FLAC] [4E0ADE64][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; NCOP 1b [BD 720p FLAC] [4E0ADE64][sam][RapidBot].mkv</a><br />
+<a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCED 1 [BD 720p FLAC] [445B8820][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; NCED 1 [BD 720p FLAC] [445B8820][sam][RapidBot].mkv</a><br />
+<a href="http://nimbus.animeout.com/series/Ongoing/Kimetsu no Yaiba/[AnimeOut] Kimetsu no Yaiba - NCED 2 Episode 19 [BD 720p FLAC] [4BF4A953][sam][RapidBot].mkv" target="_blank" rel="noopener"> Direct Download: [AnimeOut] Kimetsu no Yaiba &#8211; NCED 2 Episode 19 [BD 720p FLAC] [4BF4A953][sam][RapidBot].mkv</a></p>
+<h4 style="text-align: center;">——————————————————————–<br />
+Did you also check out this Anime ? <a href="https://www.animeout.xyz/one-punch-man-season-22019episode-1/" target="_blank" rel="noopener">One Punch Man (Season 2)</a></h4>
+			
+		
+		
+	</div><!--end article-content-->
+
+</article><!--end article-->
+
+
+
+	<section class="main-color container-wrap social-share-wrap">
+    <div class="container">
+        <div class="share-links">
+
+            <div class="hr-title hr-long"><abbr>Share this</abbr></div>
+
+            
+            
+                
+                                    <span class="kleo-facebook">
+                <a href="https://www.facebook.com/sharer.php?u=https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/" class="post_share_facebook" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=220,width=600');return false;">
+                    <i class="icon-facebook"></i>
+                </a>
+            </span>
+                
+                                    <span class="kleo-twitter">
+                <a href="https://twitter.com/share?url=https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/" class="post_share_twitter"
+                   onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=260,width=600');return false;">
+                    <i class="icon-twitter"></i>
+                </a>
+            </span>
+                
+                                    <span class="kleo-googleplus">
+                <a href="https://plus.google.com/share?url=https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/"
+                   onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+                    <i class="icon-gplus"></i>
+                </a>
+            </span>
+                
+                                    <span class="kleo-pinterest">
+                <a href="https://pinterest.com/pin/create/button/?url=https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/&media=https://cdn.animeout.xyz/wp-content/uploads/2022/03/72612_maxresdefault.jpg&description=Kimetsu no Yaiba (Demon Slayer)(Complete BD)(1080p-300MB|720p-150MB)" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+                    <i class="icon-pinterest-circled"></i>
+                </a>
+            </span>
+                
+                
+                                    <span class="kleo-whatsapp visible-xs-inline visible-sm-inline">
+                <a href="whatsapp://send?text=https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/" data-action="share/whatsapp/share">
+                    <i class="icon-whatsapp"></i>
+                </a>
+            </span>
+                
+                
+
+                                    <span class="kleo-mail">
+                <a href="mailto:?subject=Kimetsu no Yaiba (Demon Slayer)(Complete BD)(1080p-300MB|720p-150MB)&body=https://www.animeout.xyz/kimetsu-no-yaiba-demon-slayer/"
+                   class="post_share_email">
+                    <i class="icon-mail"></i>
+                </a>
+            </span>
+                
+            
+        </div>
+    </div>
+</section>
+	
+
+<section class="container-wrap">
+	<div class="container">
+		<div class="related-wrap">
+        
+            <div class="hr-title hr-long"><abbr>Related Articles</abbr></div>
+        
+            <div class="kleo-carousel-container dot-carousel">
+                <div class="kleo-carousel-items kleo-carousel-post" data-min-items="1" data-max-items="6">
+                    <ul class="kleo-carousel">
+
+                        
+<li id="post-300175" class="post-item col-sm-4 post-300175 post type-post status-publish format-standard has-post-thumbnail hentry category-complete-anime-series">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/tate-no-yuusha-no-nariagari-season-2-main2022tv-seriesongoing/" class="element-wrap"><img width="480" height="270" src="https://cdn-02.animeout.xyz/wp-content/uploads/2022/04/16971_maxresdefault-480x270.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" srcset="https://cdn-02.animeout.xyz/wp-content/uploads/2022/04/16971_maxresdefault-480x270.jpg 480w, https://cdn.animeout.xyz/wp-content/uploads/2022/04/16971_maxresdefault-300x169.jpg 300w, https://cdn-02.animeout.xyz/wp-content/uploads/2022/04/16971_maxresdefault-768x432.jpg 768w, https://cdn-01.animeout.xyz/wp-content/uploads/2022/04/16971_maxresdefault-672x378.jpg 672w, https://cdn-02.animeout.xyz/wp-content/uploads/2022/04/16971_maxresdefault-1038x584.jpg 1038w, https://cdn.animeout.xyz/wp-content/uploads/2022/04/16971_maxresdefault.jpg 1280w" sizes="(max-width: 480px) 100vw, 480px" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/tate-no-yuusha-no-nariagari-season-2-main2022tv-seriesongoing/">Tate no Yuusha no Nariagari Season 2 (2022)(TV Series)(Complete BD Dual Audio + Extras)</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/anime-out/" title="View all POSTS by Slime" rel="author"> <span class="author-name">Slime</span></a></small>, <small><a href="https://www.animeout.xyz/tate-no-yuusha-no-nariagari-season-2-main2022tv-seriesongoing/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2023-05-19T01:52:09+05:30">May 19, 2023</time><time class="modify-date hide hidden updated" datetime="2023-05-19T01:52:09+05:30">May 19, 2023</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/tate-no-yuusha-no-nariagari-season-2-main2022tv-seriesongoing/#comments">2 <i class="icon-chat-1 hover-tip" data-original-title="This article has 2 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Tate no Yuusha no Nariagari Season 2 (main) (300MB – 1080p) Synonyms: Tate no Yuusha no Nariagari Season 2...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+<li id="post-93810" class="post-item col-sm-4 post-93810 post type-post status-publish format-standard has-post-thumbnail hentry category-480p-anime-complete-series category-720p-anime-complete-series category-anime-series category-complete-anime-series tag-major tag-major-2007 tag-major-season-3">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/major-season-3-2007/" class="element-wrap"><img width="480" height="270" src="https://cdn-02.animeout.xyz/wp-content/uploads/2018/03/7461-480x270.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/major-season-3-2007/">Major: Season 3 (2007)</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/anime-out/" title="View all POSTS by Slime" rel="author"> <span class="author-name">Slime</span></a></small>, <small><a href="https://www.animeout.xyz/major-season-3-2007/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2018-03-14T18:37:14+05:30">March 14, 2018</time><time class="modify-date hide hidden updated" datetime="2018-04-01T14:37:57+05:30">April 1, 2018</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/480p-anime-complete-series/" rel="category tag">480p Complete Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/720p-anime-complete-series/" rel="category tag">720p Complete Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/" rel="category tag">Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/major-season-3-2007/#comments">2 <i class="icon-chat-1 hover-tip" data-original-title="This article has 2 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Major (2007) (main) (100MB &#8211; 720p) Synonyms: Major (2007) (main),Major 3rd Season (synonym),Major S3 (synonym),major3 (short) Type: TV Series...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+<li id="post-31748" class="post-item col-sm-4 post-31748 post type-post status-publish format-standard has-post-thumbnail hentry category-1080p-complete-anime-series category-720p-anime-movies category-720p-anime-ova category-720p-anime-complete-series category-anime-movies category-anime-ova category-anime-series category-complete-anime-series tag-1080p tag-720p tag-bd tag-bluray tag-hanamonogatari tag-monogatari tag-suruga-devil">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/hanamonogatari/" class="element-wrap"><img width="480" height="270" src="https://cdn.animeout.xyz/wp-content/uploads/2018/05/GgKYLkx-480x270.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" srcset="https://cdn.animeout.xyz/wp-content/uploads/2018/05/GgKYLkx-480x270.jpg 480w, https://cdn-01.animeout.xyz/wp-content/uploads/2018/05/GgKYLkx-300x168.jpg 300w, https://cdn.animeout.xyz/wp-content/uploads/2018/05/GgKYLkx-768x430.jpg 768w, https://cdn-01.animeout.xyz/wp-content/uploads/2018/05/GgKYLkx-672x376.jpg 672w, https://cdn.animeout.xyz/wp-content/uploads/2018/05/GgKYLkx-1038x581.jpg 1038w, https://cdn-01.animeout.xyz/wp-content/uploads/2018/05/GgKYLkx.jpg 900w" sizes="(max-width: 480px) 100vw, 480px" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/hanamonogatari/">Hanamonogatari (Complete 1080p Bluray)</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/anime-out/" title="View all POSTS by Slime" rel="author"> <span class="author-name">Slime</span></a></small>, <small><a href="https://www.animeout.xyz/hanamonogatari/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2019-09-12T18:47:14+05:30">September 12, 2019</time><time class="modify-date hide hidden updated" datetime="2019-09-12T18:56:00+05:30">September 12, 2019</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/1080p-complete-anime-series/" rel="category tag">1080p Complete Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-movies/720p-anime-movies/" rel="category tag">720p Anime Movies</a>, <a href="https://www.animeout.xyz/category/anime-ova/720p-anime-ova/" rel="category tag">720p Anime OVA</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/720p-anime-complete-series/" rel="category tag">720p Complete Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-movies/" rel="category tag">Anime Movies</a>, <a href="https://www.animeout.xyz/category/anime-ova/" rel="category tag">Anime OVA</a>, <a href="https://www.animeout.xyz/category/anime-series/" rel="category tag">Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/hanamonogatari/#comments">11 <i class="icon-chat-1 hover-tip" data-original-title="This article has 11 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Hanamonogatari: Suruga Devil (main) (100MB &#8211; 720p) Synonyms: Hanamonogatari: Suruga Devil (main),Hanamonogatari (short),HMG (short),Hanamonogatari: Suruga Devil (official) Type: TV...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+<li id="post-275147" class="post-item col-sm-4 post-275147 post type-post status-publish format-standard has-post-thumbnail hentry category-complete-anime-series">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/zhen-dao-ge-main2021webcomplete/" class="element-wrap"><img width="480" height="270" src="https://cdn-01.animeout.xyz/wp-content/uploads/2023/05/10340_a5394b1a5d87129dd74a5da80c0d2f01-480x270.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/zhen-dao-ge-main2021webcomplete/">Zhen Dao Ge (2021)(Complete)(1080p-300MB|720p-150MB)</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/anime-out/" title="View all POSTS by Slime" rel="author"> <span class="author-name">Slime</span></a></small>, <small><a href="https://www.animeout.xyz/zhen-dao-ge-main2021webcomplete/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2023-05-13T00:19:28+05:30">May 13, 2023</time><time class="modify-date hide hidden updated" datetime="2023-05-13T00:19:28+05:30">May 13, 2023</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/zhen-dao-ge-main2021webcomplete/#comments">0 <i class="icon-chat-1 hover-tip" data-original-title="This article has 0 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Zhen Dao Ge (main) (150MB – 720p) Synonyms: Zhen Dao Ge (main) Type: Web Episodes: 12 Aired: 2021-02-05 Ended:...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+<li id="post-29086" class="post-item col-sm-4 post-29086 post type-post status-publish format-standard has-post-thumbnail hentry category-complete-anime-series tag-4-koma tag-asia tag-comedy tag-coming-of-age tag-daily-life tag-direct-download-isshuukan-friends tag-download-isshuukan-friends-100mb-720p tag-earth tag-friendship tag-high-school tag-japan tag-karaoke tag-manga tag-present tag-romance tag-shounen tag-slow-when-it-comes-to-love">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/isshuukan-friends-episode-1-720p100mb/" class="element-wrap"><img width="480" height="270" src="https://cdn.animeout.xyz/wp-content/uploads/2023/05/32296_9304f47529edcb5155cca92f4931fc4c-480x270.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/isshuukan-friends-episode-1-720p100mb/">Isshuukan Friends. (Complete BD Batch + Specials + Extras)(1080p|300MB-720p|150MB)</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/anime-out/" title="View all POSTS by Slime" rel="author"> <span class="author-name">Slime</span></a></small>, <small><a href="https://www.animeout.xyz/isshuukan-friends-episode-1-720p100mb/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2023-05-23T17:40:45+05:30">May 23, 2023</time><time class="modify-date hide hidden updated" datetime="2023-05-23T17:40:45+05:30">May 23, 2023</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/isshuukan-friends-episode-1-720p100mb/#comments">6 <i class="icon-chat-1 hover-tip" data-original-title="This article has 6 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Isshuukan Friends (1080p – 300MB) Isshuukan Friends One Week Friends (synonym) Anime Type – TV Series Total Episodes –...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+<li id="post-84694" class="post-item col-sm-4 post-84694 post type-post status-publish format-standard has-post-thumbnail hentry category-720p-anime-complete-series category-anime-series category-complete-anime-series tag-720p tag-action tag-magic tag-novel tag-super-power">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/dies-irae/" class="element-wrap"><img width="480" height="270" src="https://cdn-02.animeout.xyz/wp-content/uploads/2017/10/diesiraeanime-fi-700x438-480x270.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/dies-irae/">Dies Irae</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/anime-out/" title="View all POSTS by Slime" rel="author"> <span class="author-name">Slime</span></a></small>, <small><a href="https://www.animeout.xyz/dies-irae/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2017-12-24T12:25:31+05:30">December 24, 2017</time><time class="modify-date hide hidden updated" datetime="2018-12-02T20:06:09+05:30">December 2, 2018</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/720p-anime-complete-series/" rel="category tag">720p Complete Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/" rel="category tag">Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/dies-irae/#comments">12 <i class="icon-chat-1 hover-tip" data-original-title="This article has 12 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Dies Irae (720p &#8211; 150MB) Day of Wrath (synonyms) Dies Irae (japanese) Anime Type : TV Series Total Episodes...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+<li id="post-166197" class="post-item col-sm-4 post-166197 post type-post status-publish format-standard has-post-thumbnail hentry category-720p-anime-ova category-720p-anime-complete-series category-720p-source category-anime-ova category-anime-series category-complete-anime-series tag-720p tag-comedy tag-magic tag-romance tag-seinen tag-supernatural">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/aa-megami-sama-sorezore-no-tsubasa-ova720p-150mb/" class="element-wrap"><img width="480" height="270" src="https://cdn-01.animeout.xyz/wp-content/uploads/2020/06/Aa-Megami-sama-Sorezore-no-Tsubasa-480x270.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/aa-megami-sama-sorezore-no-tsubasa-ova720p-150mb/">Aa! Megami-sama!: Sorezore no Tsubasa (Complete)(720p-150MB)</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/pirategamer/" title="View all POSTS by PirateGamer" rel="author"> <span class="author-name">PirateGamer</span></a></small>, <small><a href="https://www.animeout.xyz/aa-megami-sama-sorezore-no-tsubasa-ova720p-150mb/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2020-06-16T15:45:16+05:30">June 16, 2020</time><time class="modify-date hide hidden updated" datetime="2020-06-16T16:05:25+05:30">June 16, 2020</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-ova/720p-anime-ova/" rel="category tag">720p Anime OVA</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/720p-anime-complete-series/" rel="category tag">720p Complete Anime Series</a>, <a href="https://www.animeout.xyz/category/720p-source/" rel="category tag">720p Source</a>, <a href="https://www.animeout.xyz/category/anime-ova/" rel="category tag">Anime OVA</a>, <a href="https://www.animeout.xyz/category/anime-series/" rel="category tag">Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/aa-megami-sama-sorezore-no-tsubasa-ova720p-150mb/#comments">0 <i class="icon-chat-1 hover-tip" data-original-title="This article has 0 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Ah! My Goddess: Everyone Has Wings (synonym) (100MB &#8211; 720p) Synonyms: Ah! My Goddess: Everyone Has Wings (synonym),Ah! My...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+<li id="post-43780" class="post-item col-sm-4 post-43780 post type-post status-publish format-standard has-post-thumbnail hentry category-720p-anime-complete-series category-720p-source category-anime-series category-complete-anime-series tag-50mb tag-720p tag-comedy tag-direct-download tag-mega tag-school tag-slice-of-life">
+	<article>
+
+	<div class="post-image"><a href="https://www.animeout.xyz/oshiete-galko-chan/" class="element-wrap"><img width="480" height="270" src="https://cdn-01.animeout.xyz/wp-content/uploads/2016/02/galko-chan.jpg" class="attachment-kleo-post-gallery size-kleo-post-gallery wp-post-image" alt="" loading="lazy" srcset="https://cdn-01.animeout.xyz/wp-content/uploads/2016/02/galko-chan.jpg 900w, https://cdn-01.animeout.xyz/wp-content/uploads/2016/02/galko-chan-300x169.jpg 300w, https://cdn.animeout.xyz/wp-content/uploads/2016/02/galko-chan-180x101.jpg 180w, https://cdn.animeout.xyz/wp-content/uploads/2016/02/galko-chan-360x203.jpg 360w, https://cdn-01.animeout.xyz/wp-content/uploads/2016/02/galko-chan-790x445.jpg 790w, https://cdn.animeout.xyz/wp-content/uploads/2016/02/galko-chan-1095x617.jpg 1095w" sizes="(max-width: 480px) 100vw, 480px" /><span class="hover-element"><i>+</i></span></a></div><!--end post-image-->
+		<div class="entry-content">
+			<h4 class="post-title entry-title"><a href="https://www.animeout.xyz/oshiete-galko-chan/">Oshiete! Galko-chan</a></h4>
+
+            <span class="post-meta hidden hide">
+                <small class="meta-author author vcard"><a class="url fn n" href="https://www.animeout.xyz/author/anime-out/" title="View all POSTS by Slime" rel="author"> <span class="author-name">Slime</span></a></small>, <small><a href="https://www.animeout.xyz/oshiete-galko-chan/" rel="bookmark" class="post-time"><time class="entry-date" datetime="2016-03-26T21:27:46+05:30">March 26, 2016</time><time class="modify-date hide hidden updated" datetime="2018-02-24T09:14:24+05:30">February 24, 2018</time></a></small>, <small class="meta-category"><a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/720p-anime-complete-series/" rel="category tag">720p Complete Anime Series</a>, <a href="https://www.animeout.xyz/category/720p-source/" rel="category tag">720p Source</a>, <a href="https://www.animeout.xyz/category/anime-series/" rel="category tag">Anime Series</a>, <a href="https://www.animeout.xyz/category/anime-series/complete-anime-series/" rel="category tag">Complete Anime Series</a></small>, <small class="meta-comment-count"><a href="https://www.animeout.xyz/oshiete-galko-chan/#comments">4 <i class="icon-chat-1 hover-tip" data-original-title="This article has 4 comments" data-toggle="tooltip" data-placement="top"></i></a></small>            </span>
+
+							<hr>
+				<div class="entry-summary">
+					<p>Oshiete! Galko-chan (720p &#8211; 50MB) Please tell me! GALKO-chan , おしえて! ギャル子ちゃん (japanese) Anime Type : TV Series Total...</p>				</div><!-- .entry-summary -->
+					</div><!--end post-info-->
+
+	</article>
+</li>
+                    </ul>
+                </div>
+                <div class="carousel-arrow">
+                    <a class="carousel-prev" href="#"><i class="icon-angle-left"></i></a>
+                    <a class="carousel-next" href="#"><i class="icon-angle-right"></i></a>
+                </div>
+                <div class="kleo-carousel-post-pager carousel-pager"></div>
+            </div><!--end carousel-container-->
+		</div>
+	</div>
+</section>
+
+
+	
+		<nav class="pagination-sticky member-navigation" role="navigation">
+			<a href="https://www.animeout.xyz/kanojo-okarishimasu-2023main2023tv-seriesongoing/" rel="prev"><span id="older-nav"><span class="outter-title"><span class="entry-title">Kanojo, Okarishimasu S3 (2023)(Complete)</span></span></span></a><a href="https://www.animeout.xyz/shingeki-no-kyojin-the-final-season-2023main2023tv-specialcomplete/" rel="next"><span id="newer-nav"><span class="outter-title"><span class="entry-title">Shingeki no Kyojin: The Final Season Part 3 (2023)(Complete)</span></a>		</nav><!-- .navigation -->
+
+		
+
+<br>
+<h3 style="text-align: center;">
+	<strong> !!NOTICE !!</strong><br>
+	<strong>________________________________</strong>
+</h3>
+<br>
+	<strong>Mega, Filehosts and Torrents have been discontinued, please do not ask for reupload to any filehost, we will not do it.<br>
+		If there is any problem, speed issue or any issue related to our DDL (Direct Download) servers, please let us know at   <a href="mailto:admin@animeout.com" target=_blank>admin@animeout.com</a>   <br><br>
+		You can also join our Discord channel to talk with other users and our Staff members directly -    <a href="https://discord.gg/yDURwdC" target=_blank>https://discord.gg/yDURwdC</a>   <br><br>
+		We are now focusing on our new App-based platform AnimeWatch   (<a href="https://animewat.ch" target=_blank>https://animewat.ch</a>)   more and more, as such, updates to AnimeOut website itself and even new Ongoing releases might not be as fast as before.  <br>
+We request everyone to please start using our new website and platform, AnimeWatch, instead as that will be the eventual future of AnimeOut.<br>  </strong>
+
+	<!-- Begin Comments -->
+	
+<div id="disqus_thread"></div>
+	<!-- End Comments -->
+
+
+
+				
+				</div><!--end wrap-content-->
+			</div><!--end main-page-template-->
+			
+<div class="sidebar sidebar-main col-sm-3 sidebar-right">
+	<div class="inner-content widgets-container">
+		<div id="search-2" class="widget widget_search"><h4 class="widget-title">Search</h4><form role="search" method="get" class="searchform" action="https://www.animeout.xyz/">
+	
+	<div class="input-group">
+		<input name="s" autocomplete="off" type="text" class="ajax_s form-control input-sm" value="">
+		<span class="input-group-btn">
+            <input type="submit" value="Search" class="searchsubmit button">
+		</span>
+	</div>
+
+</form></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><h4 class="widget-title">Chat</h4><div class="textwidget custom-html-widget"><iframe src="https://www4.cbox.ws/box/?boxid=4315531&boxtag=fyxgxw" width="100%" height="450" allowtransparency="yes" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	</div></div>	</div><!--end inner-content-->
+</div><!--end sidebar-->
+
+			</div><!--end .row-->		</div><!--end .container-->
+  
+</section>
+<!--END MAIN SECTION-->
+		</div><!-- #main -->
+
+	
+<div id="footer" class="footer-color border-top">
+	<div class="container">
+		<div class="template-page tpl-no">
+			<div class="wrap-content">
+				<div class="row">
+					<div class="col-sm-3">
+						<div id="footer-sidebar-1" class="footer-sidebar widget-area" role="complementary">
+							<div id="tag_cloud-3" class="widget widget_tag_cloud"><h4 class="widget-title">Most Tagged</h4><div class="tagcloud"><a href="https://www.animeout.xyz/tag/720p/" class="tag-cloud-link tag-link-63 tag-link-position-1" style="font-size: 22pt;" aria-label="720p (1,063 items)">720p</a>
+<a href="https://www.animeout.xyz/tag/1080p/" class="tag-cloud-link tag-link-4681 tag-link-position-2" style="font-size: 18.205607476636pt;" aria-label="1080p (548 items)">1080p</a>
+<a href="https://www.animeout.xyz/tag/action/" class="tag-cloud-link tag-link-330 tag-link-position-3" style="font-size: 19.121495327103pt;" aria-label="Action (642 items)">Action</a>
+<a href="https://www.animeout.xyz/tag/adventure/" class="tag-cloud-link tag-link-1973 tag-link-position-4" style="font-size: 14.280373831776pt;" aria-label="Adventure (276 items)">Adventure</a>
+<a href="https://www.animeout.xyz/tag/angst/" class="tag-cloud-link tag-link-1832 tag-link-position-5" style="font-size: 9.0467289719626pt;" aria-label="Angst (109 items)">Angst</a>
+<a href="https://www.animeout.xyz/tag/asia/" class="tag-cloud-link tag-link-1862 tag-link-position-6" style="font-size: 14.280373831776pt;" aria-label="Asia (275 items)">Asia</a>
+<a href="https://www.animeout.xyz/tag/bd/" class="tag-cloud-link tag-link-404 tag-link-position-7" style="font-size: 12.971962616822pt;" aria-label="BD (216 items)">BD</a>
+<a href="https://www.animeout.xyz/tag/blu-ray/" class="tag-cloud-link tag-link-2145 tag-link-position-8" style="font-size: 10.093457943925pt;" aria-label="Blu-Ray (132 items)">Blu-Ray</a>
+<a href="https://www.animeout.xyz/tag/bluray/" class="tag-cloud-link tag-link-792 tag-link-position-9" style="font-size: 10.355140186916pt;" aria-label="Bluray (137 items)">Bluray</a>
+<a href="https://www.animeout.xyz/tag/comedy/" class="tag-cloud-link tag-link-331 tag-link-position-10" style="font-size: 19.644859813084pt;" aria-label="Comedy (706 items)">Comedy</a>
+<a href="https://www.animeout.xyz/tag/coming-of-age/" class="tag-cloud-link tag-link-1931 tag-link-position-11" style="font-size: 9.1775700934579pt;" aria-label="Coming of Age (111 items)">Coming of Age</a>
+<a href="https://www.animeout.xyz/tag/daily-life/" class="tag-cloud-link tag-link-1878 tag-link-position-12" style="font-size: 9.8317757009346pt;" aria-label="Daily Life (125 items)">Daily Life</a>
+<a href="https://www.animeout.xyz/tag/direct-download/" class="tag-cloud-link tag-link-94 tag-link-position-13" style="font-size: 8.2616822429907pt;" aria-label="direct download (95 items)">direct download</a>
+<a href="https://www.animeout.xyz/tag/drama/" class="tag-cloud-link tag-link-408 tag-link-position-14" style="font-size: 12.317757009346pt;" aria-label="Drama (194 items)">Drama</a>
+<a href="https://www.animeout.xyz/tag/earth/" class="tag-cloud-link tag-link-1859 tag-link-position-15" style="font-size: 14.542056074766pt;" aria-label="Earth (289 items)">Earth</a>
+<a href="https://www.animeout.xyz/tag/ecchi/" class="tag-cloud-link tag-link-1860 tag-link-position-16" style="font-size: 14.14953271028pt;" aria-label="Ecchi (267 items)">Ecchi</a>
+<a href="https://www.animeout.xyz/tag/fantasy/" class="tag-cloud-link tag-link-1870 tag-link-position-17" style="font-size: 16.897196261682pt;" aria-label="Fantasy (439 items)">Fantasy</a>
+<a href="https://www.animeout.xyz/tag/friendship/" class="tag-cloud-link tag-link-1823 tag-link-position-18" style="font-size: 9.3084112149533pt;" aria-label="Friendship (115 items)">Friendship</a>
+<a href="https://www.animeout.xyz/tag/harem/" class="tag-cloud-link tag-link-1861 tag-link-position-19" style="font-size: 11.009345794393pt;" aria-label="Harem (153 items)">Harem</a>
+<a href="https://www.animeout.xyz/tag/high-school/" class="tag-cloud-link tag-link-1883 tag-link-position-20" style="font-size: 12.710280373832pt;" aria-label="High School (206 items)">High School</a>
+<a href="https://www.animeout.xyz/tag/japan/" class="tag-cloud-link tag-link-1448 tag-link-position-21" style="font-size: 15.85046728972pt;" aria-label="Japan (363 items)">Japan</a>
+<a href="https://www.animeout.xyz/tag/magic/" class="tag-cloud-link tag-link-1871 tag-link-position-22" style="font-size: 11.401869158879pt;" aria-label="Magic (166 items)">Magic</a>
+<a href="https://www.animeout.xyz/tag/manga/" class="tag-cloud-link tag-link-4272 tag-link-position-23" style="font-size: 14.803738317757pt;" aria-label="Manga (301 items)">Manga</a>
+<a href="https://www.animeout.xyz/tag/martial-arts/" class="tag-cloud-link tag-link-1841 tag-link-position-24" style="font-size: 8.392523364486pt;" aria-label="Martial Arts (97 items)">Martial Arts</a>
+<a href="https://www.animeout.xyz/tag/mecha/" class="tag-cloud-link tag-link-1829 tag-link-position-25" style="font-size: 9.7009345794393pt;" aria-label="Mecha (122 items)">Mecha</a>
+<a href="https://www.animeout.xyz/tag/music/" class="tag-cloud-link tag-link-1941 tag-link-position-26" style="font-size: 8.392523364486pt;" aria-label="Music (97 items)">Music</a>
+<a href="https://www.animeout.xyz/tag/mystery/" class="tag-cloud-link tag-link-3579 tag-link-position-27" style="font-size: 8pt;" aria-label="mystery (90 items)">mystery</a>
+<a href="https://www.animeout.xyz/tag/novel/" class="tag-cloud-link tag-link-1864 tag-link-position-28" style="font-size: 9.7009345794393pt;" aria-label="Novel (121 items)">Novel</a>
+<a href="https://www.animeout.xyz/tag/nudity/" class="tag-cloud-link tag-link-1901 tag-link-position-29" style="font-size: 9.7009345794393pt;" aria-label="Nudity (122 items)">Nudity</a>
+<a href="https://www.animeout.xyz/tag/pantsu/" class="tag-cloud-link tag-link-1948 tag-link-position-30" style="font-size: 8pt;" aria-label="Pantsu (91 items)">Pantsu</a>
+<a href="https://www.animeout.xyz/tag/plot-continuity/" class="tag-cloud-link tag-link-1849 tag-link-position-31" style="font-size: 11.271028037383pt;" aria-label="Plot Continuity (160 items)">Plot Continuity</a>
+<a href="https://www.animeout.xyz/tag/present/" class="tag-cloud-link tag-link-1843 tag-link-position-32" style="font-size: 13.88785046729pt;" aria-label="Present (256 items)">Present</a>
+<a href="https://www.animeout.xyz/tag/romance/" class="tag-cloud-link tag-link-1863 tag-link-position-33" style="font-size: 17.158878504673pt;" aria-label="Romance (461 items)">Romance</a>
+<a href="https://www.animeout.xyz/tag/school/" class="tag-cloud-link tag-link-1454 tag-link-position-34" style="font-size: 11.532710280374pt;" aria-label="School (169 items)">School</a>
+<a href="https://www.animeout.xyz/tag/school-life/" class="tag-cloud-link tag-link-1934 tag-link-position-35" style="font-size: 13.364485981308pt;" aria-label="School Life (233 items)">School Life</a>
+<a href="https://www.animeout.xyz/tag/sci-fi/" class="tag-cloud-link tag-link-1824 tag-link-position-36" style="font-size: 14.411214953271pt;" aria-label="Sci-Fi (283 items)">Sci-Fi</a>
+<a href="https://www.animeout.xyz/tag/seinen/" class="tag-cloud-link tag-link-1872 tag-link-position-37" style="font-size: 15.327102803738pt;" aria-label="Seinen (332 items)">Seinen</a>
+<a href="https://www.animeout.xyz/tag/shounen/" class="tag-cloud-link tag-link-341 tag-link-position-38" style="font-size: 15.588785046729pt;" aria-label="Shounen (346 items)">Shounen</a>
+<a href="https://www.animeout.xyz/tag/slapstick/" class="tag-cloud-link tag-link-1844 tag-link-position-39" style="font-size: 9.5700934579439pt;" aria-label="Slapstick (118 items)">Slapstick</a>
+<a href="https://www.animeout.xyz/tag/slice-of-life/" class="tag-cloud-link tag-link-1456 tag-link-position-40" style="font-size: 12.448598130841pt;" aria-label="Slice Of Life (197 items)">Slice Of Life</a>
+<a href="https://www.animeout.xyz/tag/sports/" class="tag-cloud-link tag-link-2015 tag-link-position-41" style="font-size: 8.1308411214953pt;" aria-label="Sports (93 items)">Sports</a>
+<a href="https://www.animeout.xyz/tag/supernatural/" class="tag-cloud-link tag-link-2519 tag-link-position-42" style="font-size: 11.92523364486pt;" aria-label="supernatural (183 items)">supernatural</a>
+<a href="https://www.animeout.xyz/tag/super-power/" class="tag-cloud-link tag-link-1846 tag-link-position-43" style="font-size: 12.056074766355pt;" aria-label="Super Power (184 items)">Super Power</a>
+<a href="https://www.animeout.xyz/tag/tragedy/" class="tag-cloud-link tag-link-1826 tag-link-position-44" style="font-size: 9.5700934579439pt;" aria-label="Tragedy (118 items)">Tragedy</a>
+<a href="https://www.animeout.xyz/tag/violence/" class="tag-cloud-link tag-link-1851 tag-link-position-45" style="font-size: 10.878504672897pt;" aria-label="Violence (150 items)">Violence</a></div>
+</div>						</div>
+					</div>
+					<div class="col-sm-3">
+						<div id="footer-sidebar-2" class="footer-sidebar widget-area" role="complementary">
+							<div id="recent-comments-3" class="widget widget_recent_comments"><h4 class="widget-title">Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Yaoi masochist</span> on <a href="https://www.animeout.xyz/shadows-house/#comment-34378">Shadows House (Complete BD)(1080p-300MB|720p-150MB)</a></li><li class="recentcomments"><span class="comment-author-link">Souhardya</span> on <a href="https://www.animeout.xyz/akira-1988bluray/#comment-34377">Akira (1988)(Bluray)</a></li><li class="recentcomments"><span class="comment-author-link">Bloodalice</span> on <a href="https://www.animeout.xyz/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-main2023tv-seriesongoing/#comment-34376">Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II (main)(2023)(TV Series)(Ongoing)(Episode 12)</a></li><li class="recentcomments"><span class="comment-author-link">Lubricant</span> on <a href="https://www.animeout.xyz/download-one-piece-episodes-latest/#comment-34375">One Piece (Ongoing)(Episode 1084)</a></li><li class="recentcomments"><span class="comment-author-link">Silver West</span> on <a href="https://www.animeout.xyz/kikansha-no-mahou-wa-tokubetsu-desu-main2023tv-seriesongoing/#comment-34374">Kikansha no Mahou wa Tokubetsu Desu (main)(2023)(TV Series)(Ongoing)(Episode 7)</a></li><li class="recentcomments"><span class="comment-author-link">Chicken Ghost</span> on <a href="https://www.animeout.xyz/shangri-la-frontier-kusogee-hunter-kamige-ni-idoman-to-su-main2023tv-seriesongoing/#comment-34373">Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (main)(2023)(TV Series)(Ongoing)(Episode 8)</a></li><li class="recentcomments"><span class="comment-author-link">Himanshu</span> on <a href="https://www.animeout.xyz/boruto/#comment-34372">Boruto: Naruto Next Generations (TV Series)(Ongoing + BD Dual Audio + Special + Extras)(Episode 293)</a></li><li class="recentcomments"><span class="comment-author-link">Mystic Maestro</span> on <a href="https://www.animeout.xyz/yuzuki-san-chi-no-yon-kyoudai-main2023tv-seriesongoing/#comment-34370">Yuzuki-san Chi no Yon Kyoudai. (2023)(TV Series)(Ongoing)(Episode 7)</a></li><li class="recentcomments"><span class="comment-author-link">Mystic Maestro</span> on <a href="https://www.animeout.xyz/download-one-piece-episodes-latest/#comment-34369">One Piece (Ongoing)(Episode 1084)</a></li><li class="recentcomments"><span class="comment-author-link">Chicken Ghost</span> on <a href="https://www.animeout.xyz/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story-main2023tv-seriesongoing/#comment-34368">Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story (main)(2023)(TV Series)(Ongoing)(Episode 7)</a></li></ul></div>						</div>
+					</div>
+					<div class="col-sm-3">
+						<div id="footer-sidebar-3" class="footer-sidebar widget-area" role="complementary">
+							<div id="text-3" class="widget widget_text"><h4 class="widget-title">Chatbox</h4>			<div class="textwidget"><a href="http://my.cbox.ws/anime-out" target="_blank" rel="noopener">Click to Open Chat</a></div>
+		</div><div id="text-10" class="widget widget_text"><h4 class="widget-title">Affiliates</h4>			<div class="textwidget"><a href="https://www.animeout.xyz/our-friends/">Our Friendly Sites</a></div>
+		</div>	
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div id="footer-sidebar-4" class="footer-sidebar widget-area" role="complementary">
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><!-- #footer -->
+
+		<a class="kleo-go-top" href="#"><i class="icon-up-open-big"></i></a>
+	<div class="kleo-quick-contact-wrapper"><a class="kleo-quick-contact-link" href="#"><i class="icon-mail-alt"></i></a><div id="kleo-quick-contact"><h4 class="kleo-qc-title">CONTACT US</h4><p>We're not around right now. But you can send us an email and we'll get back to you, asap.</p><form class="kleo-contact-form" action="#" method="post" novalidate><input type="text" placeholder="Your Name" required id="contact_name" name="contact_name" class="form-control" value="" tabindex="276" /><input type="email" required placeholder="Your Email" id="contact_email" name="contact_email" class="form-control" value="" tabindex="277"  /><textarea placeholder="Type your message..." required id="contact_content" name="contact_content" class="form-control" tabindex="278"></textarea><input type="hidden" name="action" value="kleo_sendmail"><button tabindex="279" class="btn btn-default pull-right" type="submit">Send</button><div class="kleo-contact-loading">Sending <i class="icon-spinner icon-spin icon-large"></i></div><div class="kleo-contact-success"> </div></form><div class="bottom-arrow"></div></div></div><!--end kleo-quick-contact-wrapper-->		
+		<!-- SOCKET SECTION
+		================================================ -->
+
+		<div id="socket" class="socket-color">
+			<div class="container">
+				<div class="template-page tpl-no col-xs-12 col-sm-12">
+					<div class="wrap-content">
+
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="gap-10"></div>
+							</div><!--end widget-->
+
+							<div class="col-sm-12">
+								<p style="text-align: center;"><strong>Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.
+</strong></p>							</div>
+							
+							<div class="col-sm-12">
+								<div class="gap-10"></div>
+							</div><!--end widget-->
+						</div><!--end row-->
+
+					</div><!--end wrap-content-->
+				</div><!--end template-page-->
+			</div><!--end container-->
+		</div><!--end footer-->
+	</div><!-- #page -->
+
+	
+	<!-- Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35032166-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35032166-4');
+</script>
+
+	<!-- Popups v1.9.3.8 - https://wordpress.org/plugins/popups/ --><style type="text/css">
+#spu-118900 .spu-close{
+	font-size: 30px;
+	color:#666;
+	text-shadow: 0 1px 0 #fff;
+}
+#spu-118900 .spu-close:hover{
+	color:#000;
+}
+#spu-118900 {
+	background-color: #eeeeee;
+	background-color: rgba(238,238,238,1);
+	color: #333;
+	padding: 25px;
+		border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-box-shadow:  0px 0px 10px 1px #666;
+	-webkit-box-shadow:  0px 0px 10px 1px #666;
+	box-shadow:  0px 0px 10px 1px #666;
+	width: 600px;
+
+}
+#spu-bg-118900 {
+	opacity: 0.5;
+	background-color: #000;
+}
+/*
+		* Add custom CSS for this popup
+		* Be sure to start your rules with #spu-118900 { } and use !important when needed to override plugin rules
+		*/</style>
+<div class="spu-bg" id="spu-bg-118900"></div>
+<div class="spu-box  spu-centered spu-total- " id="spu-118900"
+ data-box-id="118900" data-trigger="seconds"
+ data-trigger-number="1"
+ data-spuanimation="fade" data-tconvert-cookie="d" data-tclose-cookie="d" data-dconvert-cookie="999" data-dclose-cookie="3" data-nconvert-cookie="spu_conversion_118900" data-nclose-cookie="spu_closing_118900" data-test-mode="0"
+ data-auto-hide="0" data-close-on-conversion="1" data-bgopa="0.5" data-total=""
+ style="left:-99999px !important;right:auto;" data-width="600" >
+	<div class="spu-content"><p style="text-align: center;"><a href="https://www.patreon.com/bePatron?u=2881551" data-patreon-widget-type="become-patron-button">Become a Patron and support AnimeOut!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
+<p style="text-align: center;"><span style="color: #ff6600;"><strong>Supporting/Donating us on Patreon grants you Private access to our Private DDL servers and Batch/FTP Download servers.</strong></span></p>
+</div>
+	<span class="spu-close spu-close-popup top_right"><i class="spu-icon spu-icon-close"></i></span>
+	<span class="spu-timer"></span>
+	</div>
+<!-- / Popups Box -->
+<!-- Popups v1.9.3.8 - https://wordpress.org/plugins/popups/ --><style type="text/css">
+#spu-396555 .spu-close{
+	font-size: 30px;
+	color:#666;
+	text-shadow: 0 1px 0 #fff;
+}
+#spu-396555 .spu-close:hover{
+	color:#000;
+}
+#spu-396555 {
+	background-color: #eeeeee;
+	background-color: rgba(238,238,238,1);
+	color: #333;
+	padding: 25px;
+		border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-box-shadow:  0px 0px 10px 1px #666;
+	-webkit-box-shadow:  0px 0px 10px 1px #666;
+	box-shadow:  0px 0px 10px 1px #666;
+	width: 600px;
+
+}
+#spu-bg-396555 {
+	opacity: 0.5;
+	background-color: #000;
+}
+/*
+		* Add custom CSS for this popup
+		* Be sure to start your rules with #spu-396555 { } and use !important when needed to override plugin rules
+		*/</style>
+<div class="spu-bg" id="spu-bg-396555"></div>
+<div class="spu-box  spu-centered spu-total- " id="spu-396555"
+ data-box-id="396555" data-trigger="seconds"
+ data-trigger-number="2"
+ data-spuanimation="fade" data-tconvert-cookie="d" data-tclose-cookie="d" data-dconvert-cookie="999" data-dclose-cookie="30" data-nconvert-cookie="spu_conversion_396555" data-nclose-cookie="spu_closing_396555" data-test-mode="0"
+ data-auto-hide="0" data-close-on-conversion="1" data-bgopa="0.5" data-total=""
+ style="left:-99999px !important;right:auto;" data-width="600" >
+	<div class="spu-content"><p>Due to a huge influx or serious DMCA takedown requests, AnimeOut is in private mode now and only available to Logged In Users.<br />
+Please login to access AnimeOut.</p>
+</div>
+	<span class="spu-close spu-close-popup top_right"><i class="spu-icon spu-icon-close"></i></span>
+	<span class="spu-timer"></span>
+	</div>
+<!-- / Popups Box -->
+<div id="fb-root" class=" fb_reset"></div><script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/hoverintent-js.min.js' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/admin-bar.js' id='admin-bar-js'></script>
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"animeout"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/plugins/disqus-comment-system/public/js/comment_count.js' id='disqus_count-js'></script>
+<script type='text/javascript' id='disqus_embed-js-extra'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.22"},"disqusIdentifier":"118389 https:\/\/www.animeout.xyz\/?p=118389","disqusShortname":"animeout","disqusTitle":"Kimetsu no Yaiba (Demon Slayer)(Complete BD)(1080p-300MB|720p-150MB)","disqusUrl":"https:\/\/www.animeout.xyz\/kimetsu-no-yaiba-demon-slayer\/","postId":"118389"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js' id='disqus_embed-js'></script>
+<script type='text/javascript' id='spu-public-js-extra'>
+/* <![CDATA[ */
+var spuvar = {"is_admin":"","disable_style":"","ajax_mode":"","ajax_url":"https:\/\/www.animeout.xyz\/wp-admin\/admin-ajax.php","ajax_mode_url":"https:\/\/www.animeout.xyz\/?spu_action=spu_load","pid":"118389","is_front_page":"","is_category":"","site_url":"https:\/\/www.animeout.xyz","is_archive":"","is_search":"","is_preview":"","seconds_confirmation_close":"5"};
+var spuvar_social = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.animeout.xyz/wp-content/plugins/popups/public/assets/js/public.js' id='spu-public-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/bootstrap.min.js' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/plugins/waypoints.min.js' id='waypoints-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/plugins/magnific-popup/magnific.min.js' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/plugins/carouFredSel/jquery.carouFredSel-6.2.0-packed.js' id='caroufredsel-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/plugins/carouFredSel/helper-plugins/jquery.touchSwipe.min.js' id='jquery-touchswipe-js'></script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js' id='isotope-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/mediaelement/mediaelement-and-player.js' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/mediaelement/mediaelement-migrate.js' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='app-js-extra'>
+/* <![CDATA[ */
+var kleoFramework = {"ajaxurl":"https:\/\/www.animeout.xyz\/wp-admin\/admin-ajax.php","themeUrl":"https:\/\/www.animeout.xyz\/wp-content\/themes\/kleo","loginUrl":"https:\/\/www.animeout.xyz\/wp-login.php","goTop":"1","ajaxSearch":"0","alreadyLiked":"You already like this","logo":"https:\/\/www.animeout.xyz\/wp-content\/uploads\/2015\/03\/animeout-logo-v2.png","retinaLogo":"","headerHeight":"88","headerHeightScrolled":"0","headerTwoRowHeight":"88","headerTwoRowHeightScrolled":"0","headerResizeOffset":"","loadingmessage":"<i class=\"icon icon-spin5 animate-spin\"><\/i> Sending info, please wait...","DisableMagnificGallery":"0","flexMenuEnabled":"0","errorOcurred":"Sorry, an error occurred"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn-01.animeout.xyz/wp-content/themes/kleo/assets/js/app.min.js' id='app-js'></script>
+<script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/comment-reply.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.animeout.xyz/wp-includes/js/wp-embed.js' id='wp-embed-js'></script>
+		<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://www.animeout.xyz/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://www.animeout.xyz/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://www.animeout.xyz/wp-admin/'>AnimeOut</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://www.animeout.xyz/wp-admin/'>Dashboard</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://www.animeout.xyz/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://www.animeout.xyz/wp-admin/profile.php'>Howdy, <span class="display-name">ONILINKER</span><img alt='' src='https://secure.gravatar.com/avatar/f88560bc0be9d6be8b07c1c007f196ed?s=26&#038;d=mm&#038;r=g' srcset="https://secure.gravatar.com/avatar/f88560bc0be9d6be8b07c1c007f196ed?s=52&#038;d=mm&#038;r=g 2x" class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://www.animeout.xyz/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/f88560bc0be9d6be8b07c1c007f196ed?s=64&#038;d=mm&#038;r=g' srcset="https://secure.gravatar.com/avatar/f88560bc0be9d6be8b07c1c007f196ed?s=128&#038;d=mm&#038;r=g 2x" class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>ONILINKER</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://www.animeout.xyz/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://www.animeout.xyz/wp-login.php?action=logout&#038;_wpnonce=e6b3353773'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://www.animeout.xyz/wp-login.php?action=logout&#038;_wpnonce=e6b3353773">Log Out</a>
+					</div>
+
+		
+	</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (User is logged in) 
+Content Delivery Network via cdn.animeout.xyz
+
+Served from: animeout.xyz @ 2023-11-23 03:16:52 by W3 Total Cache
+-->
