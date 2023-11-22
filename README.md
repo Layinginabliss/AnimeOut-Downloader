@@ -2,6 +2,7 @@
 AnimeOut.xyz web site User Download Simulation
 
 Fist install the required library
+
 pip install watchdog
 pip install opencv-python
 pip install numpy
