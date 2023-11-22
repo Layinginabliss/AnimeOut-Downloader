@@ -3,11 +3,12 @@ AnimeOut.xyz web site User Download Simulation
 
 Fist install the required library
 
+<pre>
 pip install watchdog
 pip install opencv-python
 pip install numpy
 pip install pyautogui
-
+</pre>
 Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed.For the cloudflare security,add i am human check box button (not vital).Skip the 3,4 if you are not using IDM,and make sure to disable IDM in the config.py or it will give an error
 1.png to be
 
@@ -34,6 +35,8 @@ Here is a example of setting the anime you need
 ![junck files (1)](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/df97fdb0-9abe-43b1-8708-a64af7e6caad)
 
 ![junck files (2)](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/af0ce0f3-0c6f-4886-8031-484f325a5333)
+
+![Untitled](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/45c8f717-a7bd-4bca-9b77-287c1a8febf1)
 
 NOTE : You can add more then one anime to the .txt file you create
 Finaly run the animeout_donwloader.py and leave the computer with out locking or logging off
