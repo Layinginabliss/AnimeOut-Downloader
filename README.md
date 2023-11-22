@@ -8,12 +8,18 @@ pip install numpy
 pip install pyautogui
 
 Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed.For the cloudflare security,add i am human check box button (not vital).Skip the 3,4 if you are not using IDM,and make sure to disable IDM in the config.py or it will give an error
-![result image of 1 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/ff2e512b-90d4-46e1-8c96-ad4da4c59289)
+1.png to be
 
-![result image of 2 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/f58677d4-ef45-4173-bbfb-d2d1a7dfedec)
+![result image of 1 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/cc7e6fbc-6e6b-4b43-b0f9-e1946288a02b)
 
+1.png to be
+![result image of 2 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/dc95157b-2c2c-4596-8b3a-bf1a0e631e51)
+
+
+2.png to be
 ![result image of 3 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/70eae647-cee3-4e81-b0af-897d4b404656)
 
+3.png to be
 ![result image of 4 png](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/79723eb4-3e6d-4c86-8eda-742db6cc6088)
 
 To download the files,you have to get the animeout web pages that have the links and paste its source code in a .txt file and diffine in the config.py.To change other settings go to config.py there you can change and set quality,web_or_idm_defult_download_directrory,need_anime_websites_SourceCodes_junk_file.
