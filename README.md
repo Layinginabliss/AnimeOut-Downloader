@@ -2,12 +2,14 @@
 AnimeOut.xyz web site User Download Simulation
 
 Fist install the required library
-
 <pre>
 pip install watchdog
 pip install opencv-python
 pip install numpy
 pip install pyautogui
+</pre>
+Clone the code
+<pre>
 git clone https://github.com/Pamuditha190/AnimeOut-Downloader.git
 </pre>
 Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed.For the cloudflare security,add i am human check box button (not vital).Skip the 3,4 if you are not using IDM,and make sure to disable IDM in the config.py or it will give an error
@@ -30,6 +32,7 @@ I recomend using IDM downloader and if you are not set idm to False.
 
 WARNINGS : Set the correct dirrectory of your downloader save directory or the program won't moniter the complition of the downloading files
            Use Ad Blocker or the last step on AnimeOut.xyz won't work.It will keep pressing on the ads or some thing else
+           Use a regulay using browser that have human activities 
            
 Here is a example of setting the anime you need
 
