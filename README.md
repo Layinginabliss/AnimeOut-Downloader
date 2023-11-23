@@ -30,9 +30,9 @@ Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed.F
 To download the files,you have to get the animeout web pages that have the links and paste its source code in a .txt file and diffine in the config.py.To change other settings go to config.py there you can change and set quality,web_or_idm_defult_download_directrory,need_anime_websites_SourceCodes_junk_file.
 I recomend using IDM downloader and if you are not set idm to False.
 
-WARNINGS : Set the correct dirrectory of your downloader save directory or the program won't moniter the complition of the downloading files
-           Use Ad Blocker or the last step on AnimeOut.xyz won't work.It will keep pressing on the ads or some thing else
-           Use a regulay using browser that have human activities 
+WARNINGS : Set the correct dirrectory of your downloader save directory or the program won't moniter the complition of the downloading filesm.
+           Use Ad Blocker or the last step on AnimeOut.xyz won't work.It will keep pressing on the ads or some thing else.
+           Use a regulay using browser that have human activities.
            
 Here is a example of setting the anime you need
 
@@ -44,7 +44,7 @@ Here is a example of setting the anime you need
 
 NOTE : You can add more then one anime to the .txt file you create.
 
-Finaly run the animeout_donwloader.py and leave the computer with out locking or logging off
+Finaly run the animeout_donwloader.py and leave the computer with out locking or logging off.
 <pre>
            cd AnimeOut-Downloader
            python animeout_donwloader.py
