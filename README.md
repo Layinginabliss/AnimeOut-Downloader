@@ -39,5 +39,7 @@ Here is a example of setting the anime you need
 ![Untitled](https://github.com/Pamuditha190/AnimeOut-Downloader/assets/83724924/45c8f717-a7bd-4bca-9b77-287c1a8febf1)
 
 NOTE : You can add more then one anime to the .txt file you create.
-
 Finaly run the animeout_donwloader.py and leave the computer with out locking or logging off
+
+enjoy :)
+SUPPORT ME WITH CUPCAKE: patreon.com/CUPCAKE242
