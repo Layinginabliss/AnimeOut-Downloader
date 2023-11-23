@@ -41,5 +41,6 @@ Here is a example of setting the anime you need
 NOTE : You can add more then one anime to the .txt file you create.
 Finaly run the animeout_donwloader.py and leave the computer with out locking or logging off
 
-enjoy. :)
+enjoy :)
+
 SUPPORT ME BUY CUPCAKE: patreon.com/CUPCAKE242
