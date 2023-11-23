@@ -8,6 +8,7 @@ pip install watchdog
 pip install opencv-python
 pip install numpy
 pip install pyautogui
+git clone https://github.com/Pamuditha190/AnimeOut-Downloader.git
 </pre>
 Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed.For the cloudflare security,add i am human check box button (not vital).Skip the 3,4 if you are not using IDM,and make sure to disable IDM in the config.py or it will give an error
 
@@ -40,6 +41,10 @@ Here is a example of setting the anime you need
 
 NOTE : You can add more then one anime to the .txt file you create.
 Finaly run the animeout_donwloader.py and leave the computer with out locking or logging off
+<pre>
+           cd AnimeOut-Downloader
+           python animeout_donwloader.py
+</pre>
 
 enjoy :)
 
