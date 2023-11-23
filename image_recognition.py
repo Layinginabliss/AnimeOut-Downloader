@@ -43,9 +43,9 @@ def press_to(sub_image_location):
                 # Click on the center coordinates of the detected area
                 pyautogui.click(center_x, center_y)
         
- #   if found:
+    if found:
         # Save the image with drawn rectangles
-#      cv.imwrite(f"result image of {sub_image_location}.png", img_rgb)
+      cv.imwrite(f"result image of {sub_image_location}.png", img_rgb)
     
     if not found:
         return False
