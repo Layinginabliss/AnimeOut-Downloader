@@ -43,4 +43,4 @@ Finaly run the animeout_donwloader.py and leave the computer with out locking or
 
 enjoy :)
 
-SUPPORT ME BUY CUPCAKE: patreon.com/CUPCAKE242
+SUPPORT ME BUY CUPCAKE: <url> www.patreon.com/CUPCAKE242 </url>
