@@ -1,9 +1,8 @@
-import time
+
 import webbrowser
-from watchdog.observers import Observer
-from watchdog.events import FileSystemEventHandler
+
 from image_recognition import press_to
-import time
+
 import os
 import shutil
 from config import quality,web_or_idm_defult_download_directrory,idm,need_anime_websites_SourceCodes_junk_file
@@ -16,7 +15,22 @@ def utf8_to_ascii(lines_array):
     except Exception as e:
         return f"An error occurred: {e}"
     
+def replace_character_in_string(input_string, old_char, new_char):
+    modified_string = input_string.replace(old_char, new_char)
+    return modified_string
+
+def replace_character_in_list_of_strings(list_of_strings, old_char_code, new_char):
+    old_char = chr(old_char_code)
+    modified_list = []
+
+    for string in list_of_strings:
+        modified_string = string.replace(old_char, new_char)
+        modified_list.append(modified_string)
+
+    return modified_list
+    
 def extract_string(arr):
+ #   replace_character_in_list_of_strings(arr,39,'"')
     extracted_strings = []
     for string in arr:
         start_index = string.find('"')
@@ -29,6 +43,7 @@ def extract_string(arr):
 
 def select_qulity(lines_array,q):
     selected_lines = [line for line in lines_array if q in line  ]
+    selected_lines = lines_array
     selected_lines2 = [line2 for line2 in selected_lines if '[AnimeOut]' in line2 ]
     return selected_lines2
 
@@ -38,37 +53,48 @@ def steps(img):
     stept = time.time()# Get the current time in seconds
     stept = stept / 60
 
+    print(f"waiting till {img}")
     while step == 0:
         press_to('i am human.png')
         if press_to(img) == True:
             step = 1
+            print(f"{img} is done")
         time.sleep(0.01)
         c = time.time()
         c = (c / 60) - stept
         if(c >= 0.8):
             step = 1
             skiped = 1
+            print (f"{img} skiped and {converted_web_links[now]} is skiped")
         
+
+
+
 def procedure():
     global now,skiped
     webbrowser.open(converted_web_links[now])
     step1 = 0
     import time
 
+    skiped = 0
+
     steps('1.png')
-    steps('2.png')
+    if(not skiped):
+        steps('2.png')
    
     if idm: 
-        steps('3.png')
-        steps('4.png')
+        if(not skiped):
+            steps('3.png')
+        if(not skiped):
+            steps('4.png')
     
-   # print ("done !")
-    if skiped == 1 :
-        print(f"error : {converted_web_links[now]} skiped ")
-        skiped = 0
+    if skiped :
         return False
-    return True
-    
+    else : 
+        return True
+   # steps('5.png') 
+   # print ("done !")
+   
 def clean_up(directory,name):
     try:
         # Check if the directory exists
@@ -97,14 +123,21 @@ def clean_up(directory,name):
 
 def act():
     global converted_web_links,now,all
+    
     while(1):
-        print(f"{now-1} done,{len(converted_web_links) - now-1} in queue. next - " + converted_web_links[now])
+        print(f"{now-1} done,{len(converted_web_links) - now - 1} in queue")
+        print("next -> " + converted_web_links[now])
+            
         extract_text(converted_web_links[now])
-       # print(all)
+        #print(all)
         r = procedure()
-        now += 1
-        if r == 1:
+        
+        if r : 
+            now += 1
             break
+        now += 1
+    
+    print("waiting till download finishes")
 
 
 def extract_text(text):
@@ -127,68 +160,63 @@ with open(need_anime_websites_SourceCodes_junk_file, 'r' ,encoding='utf-8') as f
 web_site = utf8_to_ascii(web_site)
 
 now = 0
-times = 1
 executed_once = False  # Flag to check if on_created logic executed
-
-converted_web_links = select_qulity(web_site,quality)
-converted_web_links = extract_string(converted_web_links)
 
 
 skiped = 0
-now = -1
+now = 0
 
 all = []
 
-def Quality(q):
-    global quality
-    quality = q
-     
-def Run_User_Downloading_Simulation():
+import time
+from watchdog.observers import Observer
+from watchdog.events import FileSystemEventHandler
 
-    print(f"Links {len(converted_web_links)} were found that have quality {quality}")
+class MyHandler(FileSystemEventHandler):
+    def on_created(self, event):
+        global all
+        if not event.is_directory and not event.src_path.endswith('.tmp'):
+            print(f'File {event.src_path} has been created')
+            if now < len(converted_web_links) and now > 0:
+                act()
+            else:
+                all = list(set(all))
+                for x in all:
+                    clean_up(web_or_idm_defult_download_directrory, x)
+                print("ALL DONE :)")
 
-    if(0 != len(converted_web_links)):
-        act()
-    else:
-        print("Something went wrong in the need_anime_websites_SourceCodes_junk_file.No link found, chek the qulity in the config.py and website source code contaning file")
-        all = list(set(all))
-        for x in all:
-            clean_up(web_or_idm_defult_download_directrory,x)
-            
-    class MyHandler(FileSystemEventHandler):
-        def on_created(self, event):
-            global now, times, executed_once,all
-            if not event.is_directory and not executed_once:
-                executed_once = True  # Set the flag to True after executing once
-                
-                if len(converted_web_links) > now and ".tmp" not in event.src_path:
-                   # print(f'File {event.src_path} has been created')
-                    times = 1
-                    now += 1
-                    if(now < len(converted_web_links) and now > 0):
-                        act()
-                    else :
-                        all = list(set(all))
-                        for x in all:
-                            clean_up(web_or_idm_defult_download_directrory,x)
-                            print("ALL DONE :)")
-                    
 
-    def start_observer():
-        event_handler = MyHandler()
-        observer = Observer()
-        observer.schedule(event_handler, path=web_or_idm_defult_download_directrory
-, recursive=True)
-        observer.start()
+def watch_directory(path):
+    event_handler = MyHandler()
+    observer = Observer()
+    observer.schedule(event_handler, path=path, recursive=False)
+    observer.start()
 
-        try:
-            while True:
-                time.sleep(5)  # Adjust the polling interval as needed
-        except KeyboardInterrupt:
-            observer.stop()
+    try:
+        while True:
+            time.sleep(1)
+    except KeyboardInterrupt:
+        observer.stop()
         observer.join()
 
-    # Run the observer
-    start_observer()
+converted_web_links = select_qulity(web_site,quality)
+converted_web_links = replace_character_in_list_of_strings(web_site,39,'"')
+converted_web_links = extract_string(converted_web_links)
+converted_web_links = select_qulity(converted_web_links,quality)
 
-Run_User_Downloading_Simulation()
+print(f"Links {len(converted_web_links)} were found that have quality {quality}")
+
+for x in converted_web_links:
+    print(x)
+
+if 0 != len(converted_web_links):
+        act()
+else:
+    print("Something went wrong in the need_anime_websites_SourceCodes_junk_file. No link found, check the quality in the config.py and website source code containing file")
+    all = list(set(all))
+    for x in all:
+        clean_up(web_or_idm_defult_download_directrory, x)
+
+if __name__ == "__main__":
+    directory_to_watch = web_or_idm_defult_download_directrory  # Replace with your directory path
+    watch_directory(directory_to_watch)
