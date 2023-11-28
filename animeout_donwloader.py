@@ -30,7 +30,6 @@ def replace_character_in_list_of_strings(list_of_strings, old_char_code, new_cha
     return modified_list
     
 def extract_string(arr):
- #   replace_character_in_list_of_strings(arr,39,'"')
     extracted_strings = []
     for string in arr:
         start_index = string.find('"')
@@ -151,11 +150,11 @@ def extract_text(text):
     else:
         return False
 
- # Replace 'strings.txt' with your file name
+
 with open(need_anime_websites_SourceCodes_junk_file, 'r' ,encoding='utf-8') as file:
     web_site = file.readlines()
 
-#   web_site = [line.strip() for line in web_site]
+
 
 web_site = utf8_to_ascii(web_site)
 
