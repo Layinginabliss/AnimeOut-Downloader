@@ -10,7 +10,7 @@ pip install pyautogui
 </pre>
 Clone the code
 <pre>
-git clone https://github.com/Pamuditha190/AnimeOut-Downloader.git
+git clone https://github.com/Layinginabliss/AnimeOut-Downloader.git
 </pre>
 Next cut up the buttons and lable them 1,2,3,4 in oder wich need to be pressed and remove the example buttons given in the folder.For the cloudflare security,add i am human check box button (not vital).Skip the 3,4 if you are not using IDM,and make sure to disable IDM in the config.py or it will give an error
 
