@@ -198,6 +198,7 @@ def watch_directory(path):
         observer.stop()
         observer.join()
 
+# Change to your need
 converted_web_links = select_qulity(web_site,quality)
 converted_web_links = replace_character_in_list_of_strings(web_site,39,'"')
 converted_web_links = extract_string(converted_web_links)
